@@ -1,0 +1,43 @@
+.navigasi {
+    background: linear-gradient(0deg,white, black, rgb(3, 123, 228), white) ;
+    font-size: 25px;
+    padding: 20px;
+}
+
+nav{
+    display: flex;
+    gap: 10%;
+}
+
+
+.profile{
+    display: flex;
+    text-align: justify;
+}
+.photo {
+    width: 200px;
+}
+
+.isi h1{
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(30, 96, 202);
+    margin-bottom: 0%;
+}
+
+.isi h2{
+    font-size: 25px;
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(30, 96, 202);
+    margin-bottom: 0%;
+}
+
+.isi p{
+    display: center;
+}
+.navigasi a{
+    font-family: fantasy;
+    color: rgb(198, 254, 15);
+}
